@@ -1,4 +1,4 @@
-# Julia programming-rcss
+# Julia programming-duality
 
 ## Authors
 * **Piyachat Leelasilapasart** 
